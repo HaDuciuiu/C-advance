@@ -1,0 +1,16 @@
+[STATIONS]
+S1=Ga Ha Noi
+S2=Ga Hai Duong
+S3=Ga Sai Gon
+S4=Ga Hue
+S5=Ga Da Nang
+S6=Ga Da Lat
+S7=Ga Binh Duong
+S8=Ga Hoa Binh
+S9=Ga Ben Tre
+[LINES]
+M1=S1 S2 S4 S3 S7
+M2=S3 S5 S6 S8 S9
+M3=S4 S5 S6 S8 S2 S4
+M4=S1 S4 S5 S2 S7 S9 S6
+M5=S9 S6 S4 S7 

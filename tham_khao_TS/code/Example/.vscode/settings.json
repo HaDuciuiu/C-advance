@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "soup.h": "c",
+    "soup-address.h": "c",
+    "soup-types.h": "c",
+    "soup-session-async.h": "c",
+    "soup-session-feature.h": "c",
+    "soup-session-sync.h": "c",
+    "soup-status.h": "c",
+    "soup-message.h": "c",
+    "soup-version.h": "c",
+    "*.in": "c",
+    "soup-date-utils.h": "c",
+    "soup-websocket-connection.h": "c",
+    "curl.h": "c"
+  }
+}

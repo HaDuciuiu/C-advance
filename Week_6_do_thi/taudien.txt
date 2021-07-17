@@ -1,0 +1,16 @@
+S1=Ha Noi
+S2=HCM
+S3=Bac Ninh
+S4=Lao Cai
+S5=Yen Bai
+S6=Binh Duong
+S7=Da Nang
+S8=Vinh Phuc
+S9=Ca Mau
+S10=Mong Cai
+LINE
+M1 =S1 S2 S4 S3 S7
+M2 =S3 S5 S6 S8 S9
+M3 =S7 S9 S10 S5 S2
+M4 =S6 S8 S9
+

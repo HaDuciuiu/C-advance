@@ -1,0 +1,13 @@
+[STATIONS]
+S1=HaNoi
+S2=DaNang
+S3=ThaiNguyen
+S4=CaoBang
+S5=LangSon
+S6=NgheAn
+S7=ThaiBinh
+S8=HoaBinh
+S9=SonLa
+[LINES]
+M1=S1 S2 S4 S3 S7
+M2=S3 S5 S6 S8 S9

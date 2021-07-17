@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "type_traits": "c",
+        "jval.h": "c",
+        "jrb.h": "c",
+        "cstdio": "cpp"
+    }
+}
