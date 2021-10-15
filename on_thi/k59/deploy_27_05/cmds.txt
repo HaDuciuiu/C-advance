@@ -1,0 +1,6 @@
+./p -h
+./p -v demo.txt
+./p -w demo.txt 1 3
+./p -p demo.txt 2 3
+./p -n demo.txt 1
+./p -s demo.txt 1 3 
